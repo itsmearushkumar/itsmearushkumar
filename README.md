@@ -5,24 +5,19 @@ Full Stack Web Developer • AI Enthusiast • B.Tech CSE Student
 </h3>
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=itsmearushkumar&label=Visitors&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=itsmearushkumar&label=Visitors&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🔭 Completed **Full Stack Web Development Internship**
-
-🌱 Currently learning **React, Node.js, Express.js, MongoDB & AI**
-
-🎓 B.Tech CSE Student at **SRM Institute of Science and Technology**
-
-💬 Ask me about **Web Development, JavaScript, React, Java, Python**
-
-🚀 Interested in **Artificial Intelligence, Full Stack Development & Cloud**
-
-⚡ Fun Fact: I enjoy building projects that solve real-world problems.
+- 🔭 Completed **Full Stack Web Development Internship**
+- 🌱 Currently learning **React, Node.js, Express.js, MongoDB & AI**
+- 🎓 B.Tech CSE Student at **SRM Institute of Science and Technology**
+- 💬 Ask me about **React, JavaScript, Java, Python**
+- 🚀 Interested in **AI, Full Stack Development & Cloud**
+- ⚡ Fun Fact: I enjoy building real-world projects.
 
 ---
 
@@ -32,19 +27,14 @@ Full Stack Web Developer • AI Enthusiast • B.Tech CSE Student
 
 <a href="mailto:kumararush2005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/itsmearushkumar">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="https://itsmearushkumar.github.io/FUTURE_FS_01/">
-
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/>
-
 </a>
 
 </p>
@@ -55,7 +45,7 @@ Full Stack Web Developer • AI Enthusiast • B.Tech CSE Student
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,python,java,c,git,github,vscode,figma,vite,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,python,javascript,typescript,c,java,nodejs,express,mongodb,mysql,git,vite,tailwind"/>
 
 </p>
 
@@ -64,12 +54,12 @@ Full Stack Web Developer • AI Enthusiast • B.Tech CSE Student
 # 🚀 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 🤖 AI Tic Tac Toe | Built using JavaScript with Minimax AI Algorithm |
-| 💼 Mini CRM | Full Stack Client Lead Management System using MERN Stack |
-| 🌐 Portfolio Website | Personal Portfolio showcasing projects and skills |
-| 📱 Flutter NoPhone App | Mobile application developed using Flutter |
-| 📄 StreamMA Research | Presentation and implementation of StreamMA inference system |
+|---------|-------------|
+| 🤖 AI Tic Tac Toe | Minimax AI based game |
+| 💼 Mini CRM | MERN Client Lead Management System |
+| 🌐 Portfolio Website | Personal Portfolio |
+| 📱 Flutter NoPhone App | Flutter Application |
+| 📄 StreamMA Research | Research Presentation |
 
 ---
 
@@ -77,7 +67,7 @@ Full Stack Web Developer • AI Enthusiast • B.Tech CSE Student
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/itsmearushkumar/itsmearushkumar/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/itsmearushkumar/itsmearushkumar/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
 </p>
 
@@ -87,21 +77,21 @@ Full Stack Web Developer • AI Enthusiast • B.Tech CSE Student
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsmearushkumar&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsmearushkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=itsmearushkumar&theme=tokyonight"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=itsmearushkumar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmearushkumar&layout=compact&theme=tokyonight"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmearushkumar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -115,7 +105,7 @@ Full Stack Web Developer • AI Enthusiast • B.Tech CSE Student
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=itsmearushkumar&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=itsmearushkumar&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -123,4 +113,4 @@ Full Stack Web Developer • AI Enthusiast • B.Tech CSE Student
 
 ## 💡 Quote
 
-> *"Code. Learn. Build. Repeat."*
+> **"Code. Learn. Build. Repeat."**
