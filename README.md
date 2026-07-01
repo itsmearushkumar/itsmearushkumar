@@ -99,14 +99,6 @@ Full Stack Web Developer • AI Enthusiast • B.Tech CSE Student
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsmearushkumar&theme=onedark&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
-
----
-
 ## 💡 Quote
 
 > **"Code. Learn. Build. Repeat."**
