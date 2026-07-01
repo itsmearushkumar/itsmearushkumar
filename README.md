@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Arush Kumar</h1>
+<h1 align="center">Hi There! 👋</h1>
 
-<h3 align="center">
-Full Stack Web Developer • AI Enthusiast • B.Tech CSE Student
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=I'm+Arush+Kumar;Full+Stack+Web+Developer;AI+Enthusiast;B.Tech+CSE+Student;Welcome+to+my+GitHub+Profile!"/>
+</p>
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=itsmearushkumar&label=Visitors&color=0e75b6&style=flat" />
