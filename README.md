@@ -76,17 +76,12 @@ Full Stack Web Developer • AI Enthusiast • B.Tech CSE Student
 # ⚡ GitHub Stats
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsmearushkumar&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmearushkumar&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsmearushkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmearushkumar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmearushkumar&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=itsmearushkumar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -104,9 +99,7 @@ Full Stack Web Developer • AI Enthusiast • B.Tech CSE Student
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=itsmearushkumar&theme=algolia&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=itsmearushkumar&theme=onedark&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
