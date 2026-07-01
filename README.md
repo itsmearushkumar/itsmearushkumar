@@ -76,12 +76,15 @@ Full Stack Web Developer • AI Enthusiast • B.Tech CSE Student
 # ⚡ GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsmearushkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmearushkumar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmearushkumar&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsmearushkumar&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmearushkumar&theme=github_dark" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=itsmearushkumar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
