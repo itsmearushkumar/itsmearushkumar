@@ -35,7 +35,7 @@ Full Stack Web Developer • AI Enthusiast • B.Tech CSE Student
 
 </a>
 
-<a href="www.linkedin.com/in/itsmearushkumar">
+<a href="https://www.linkedin.com/in/itsmearushkumar">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
